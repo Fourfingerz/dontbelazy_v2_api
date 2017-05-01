@@ -4,8 +4,8 @@
   "description": "Rewrite of Dont Be Lazy Productivity WebApp in Node and React",
   "main": "server.js",
   "dependencies": {
-    "express": "~4.13.4",
-    "mysql": "~2.10.2"
+    "express": "~4.15.2",
+    "mysql": "~2.13.0"
   },
   "repository": {
     "type": "git",
